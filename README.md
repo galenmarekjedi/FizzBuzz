@@ -1,2 +1,2 @@
 # FizzBuzz
-classic programming problem
+classic programming problem write in kotlin
